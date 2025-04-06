@@ -7,7 +7,7 @@ public class Main {
         int opcao;
 
         do{
-            System.out.println("=== SISTEMA DETRAN ==\n");
+            System.out.println("=== SISTEMA DETRAN ===\n");
             System.out.println("1 - Cadastrar Proprietário");
             System.out.println("2 - Cadastrar Veículo");
             System.out.println("3 - Buscar Veículo por Placa");
